@@ -4,3 +4,6 @@
 ```bash
 git clone https://github.com/KaiCobra/IU2024_album.git
 ```
+```bash
+cd ./IU2024_album
+```
